@@ -1,1 +1,1 @@
-# stata_tutorial
+# Stata tutorial for economics undergraduates 
